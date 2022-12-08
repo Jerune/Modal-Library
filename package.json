@@ -1,6 +1,14 @@
 {
   "name": "adaptable-react-modal",
   "version": "1.0.3",
+  "description": "An adaptable modal for React with the possibility for auto closure, custom styles, animations and custom follow up function",
+  "license": "MIT",
+  "author": "jerune",
+  "keywords": [
+    "react",
+    "customizable",
+    "modal"
+  ],
   "main": "dist/index.js",
   "private": false,
   "files": [
